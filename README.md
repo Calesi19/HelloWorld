@@ -2,9 +2,9 @@
 
 This program is only meant to display a simple "Hello World" on the screen.
 
-I created this small program to test and become famliarized with git and pushing code to github.
+I created this small program to test my new development environment, become famliarized with git, and practice pushing code to github.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/c__yaGH6uXk)
 
 # Development Environment
 
